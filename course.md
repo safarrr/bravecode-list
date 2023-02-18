@@ -1,10 +1,6 @@
 # braveCode 
 ini adalah list course/tutorial untuk berajar html, css, javascript
 
-# daftar sis
-1. [html](##html)
-2. [css](##css)
-
 ## Html 
 
 ### youtube
